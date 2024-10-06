@@ -1,0 +1,1 @@
+This project aims to solidify my skills with the foundation of HTML. By the end of this exercise, I will have demonstrated solid html formatting and usage of tags, elements and attributes. 
