@@ -1,0 +1,31 @@
+
+h1 {
+    color: green;
+}
+
+body {
+    background-color: lightcoral;
+    font-family: "Monospace", "Fantasy" sans-serif;
+    text-align: center;
+}
+
+.recipe {
+    font-size: medium;
+    color: lightsalmon;
+    text-align: left;
+    font-family: "cursive";
+
+}
+
+.instructions {
+    font-size: larger;
+    color:blanchedalmond;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+
+
+
+
